@@ -1,2 +1,2 @@
-# raspberry-pi-tank
-Robot tank project with raspberry pi
+# arduino-tank
+Robot tank project with Arduino
